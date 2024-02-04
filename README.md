@@ -1,16 +1,24 @@
-### Hi there 👋
 
-<!--
-**joshimanjari/joshimanjari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 style="color: Blue;"> Hi there, I am Manjari Joshi </h2>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=joshimanjari" alt="" />
+  <a href="mailto:manjarijoshi369@gmail.com"><img src='https://img.shields.io/badge/Gmail-mail%20me-red' /></a>
+</p>
+<p> I am a BCA year passed out student from UMA, currently pursuing PMKVY AI and ML Learning
+  Adept at motivating self and others. I am an Open source enthusiast and passionate about coding, Machine Learning and to learn about new technologies and I wish to reach the pinnacle in computing and research field with sheer determination, dedication and hardwork.
 
-Here are some ideas to get you started:
+  - Currrnetly I am focusing on my programming skill  and Machine Learning.
+</p>
+- 🏠 How to reach me:(https://www.linkedin.com/in/joshimanjari/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 👨‍💻 &nbsp;&nbsp;My passions
+* Problem solving
+* Machine Learning
+* Technology
+* Software
+  
+
+<!---
+joshimanjari/joshimanjari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
