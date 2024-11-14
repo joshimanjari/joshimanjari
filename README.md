@@ -8,7 +8,7 @@
 
   - Currrnetly I am focusing on my programming skill  and Machine Learning.
 </p>
-- 🏠 How to reach me:(https://www.linkedin.com/in/joshimanjari/)
+- 🏠 How to reach me:(https://www.linkedin.com/in/manjarijoshi/)
 
 #### 👨‍💻 &nbsp;&nbsp;My passions
 * Problem solving
